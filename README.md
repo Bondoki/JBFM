@@ -22,3 +22,9 @@ $ java -jar JBFM.jar --nogui directory filename simulationtime savetime
 # open the GUI and load the conformation
 ```
 
+
+
+[JBFM-link]: <http://www.ipfdd.de/JBFM>
+[BFM1]: <http://dx.doi.org/10.1021/ma00187a030>  "I. Carmesin, K. Kremer; Macromolecules 21, 2819-2823 (1988)"
+[BFM2]: <http://dx.doi.org/10.1063/1.459901> "H. P. Deutsch, K. Binder; J. Chem. Phys. 94, 2294-2304 (1990)"
+
