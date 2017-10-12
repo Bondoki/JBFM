@@ -3,9 +3,9 @@
 #object: ring
 #!system_jbfm=4
 #monomer numbering starts at 1
-#
+# 
 # this file contains a ring polymer consisting of 100 monomers
-#
+# 
 
 !number_of_monomers=100
 
